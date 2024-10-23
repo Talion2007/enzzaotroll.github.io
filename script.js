@@ -1,4 +1,5 @@
 //ToDo: Código de inicialização:
+let nome = prompt("Qual é o seu Nome?");
 document.getElementById("titulo").innerText = "Anti-Gay";
 console.log("Hello Narcóticos Achados");
 
