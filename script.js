@@ -1,5 +1,5 @@
 //ToDo: Código de inicialização:
-document.getElementById("titulo").innerText = "Referências de JavaScript";
+document.getElementById("titulo").innerText = "Anti-Gay";
 console.log("Hello Narcóticos Achados");
 
 //ToDo: Botão Primário:
