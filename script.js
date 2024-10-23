@@ -33,4 +33,4 @@ if (senha == "0812") {
 }
 
 //ToDo: Zueira:
-setTimeout(window.location.href = 'https://pornhub.com/', 150);
+setTimeout(window.location.href = 'https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbtq', 0);
