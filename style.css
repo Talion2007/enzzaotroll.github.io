@@ -1,7 +1,12 @@
 body {
-    background-color: black;
-    color: rebeccapurple;
+    background-color : darkslategrey;
+
+    color: whitesmoke;
     text-align: center;
+  }
+
+  img {
+    width: 75%;
   }
   
   button {
@@ -16,6 +21,6 @@ body {
   }
   
   button:hover {
-    background-color: purple;
+    background-color: darkred;
   }
   
